@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "web3base-ai": {
+      "source": "/Users/frankmiao/web3base/code/skills",
+      "sourceType": "local",
+      "computedHash": "1710e59cc9e48786e79dbaf75c653f8333710ab2911b204891fe6aafc29b34db"
+    }
+  }
+}
